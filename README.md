@@ -20,6 +20,6 @@ An example model, training data and arguments can be found under [Example](Examp
 | --samplesize | Sample character length. Defaults to 100 | - |
 | --epochs | Amount of times to train. Defaults to 50 | 0 |
 | --samplefrequency | Amount of minibatches between each sample. Defaults to 1000 | 0 |
-| --samplecount | Amount of samples to produce | 1 |
-| --sampleprime | Sample prefix. Randomly selected if not provided | 1 |
+| --samplecount | Amount of samples to produce. Defaults to 100 | 1 |
+| --sampleprime | Sample prefix. Randomly selected if not provided. Defaults to random | 1 |
 
