@@ -1,0 +1,1 @@
+dotnet run CASCPredictor.dll --mode 0 --modelprefix "oggs" --datapath "oggs.txt" --samplesize 100 --samplecount 5 --sampleprime "sound/creature/whompus/"

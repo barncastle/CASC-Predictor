@@ -1,0 +1,1 @@
+dotnet run CASCPredictor.dll --mode 1 --modelprefix "oggs" --datapath "oggs.txt" --samplesize 100 --epochs 50 --samplefrequency 1000
